@@ -2,7 +2,7 @@
 
 ---
 
-Soy apasionado a la tecnología , con competencias enfocadas en el trabajo en equipo, comunicación , responsable y proactiva, me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.
+Soy apasionado a la tecnología , con competencias enfocadas en el trabajo en equipo, comunicación , responsable y proactivo, me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.
 
 ---
 
