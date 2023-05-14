@@ -87,6 +87,6 @@ Soy apasionado a la tecnología , con competencias enfocadas en el trabajo en eq
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
-visita mi portafolio: 
+visita mi portafolio:
 
-<a href="http://portafolio-luisangel.netlify.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href="http://luisangelponcealvarez.netlify.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
