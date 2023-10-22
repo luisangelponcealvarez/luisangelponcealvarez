@@ -16,8 +16,6 @@ Estudiante de programación autodidacta enfocado al Desarrollo de software. Como
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src=""/>
-  <img src=""/>
 <p>
 
 ## Herramientas y tecnologías
