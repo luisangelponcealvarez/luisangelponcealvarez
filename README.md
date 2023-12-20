@@ -1,10 +1,10 @@
-## Hola 👋🏻, Soy LUIS ANGEL PONCE ALVAREZ 💻:
+## I am LUIS ANGEL PONCE ALVAREZ 💻:
 
-## Sobre Mi:
+## About Me:
 
-Estudiante de programación autodidacta enfocado al Desarrollo de software. Como persona amante a la tecnologia busco aprender nuevas tecnologias y hacer nuevos proyectos, Aspiro conseguir empleo en el mundodel Desarrollo de software, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.
+Self-taught programming student focused on software development. As a technology lover I am looking to learn new technologies and make new projects, I aspire to get a job in the world of software development, gain experience, new knowledge and strengthen my professional life.
 
-## Habilidades
+## Skills
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -18,7 +18,7 @@ Estudiante de programación autodidacta enfocado al Desarrollo de software. Como
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <p>
 
-## Herramientas y tecnologías
+## Tools and technologies
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -29,7 +29,7 @@ Estudiante de programación autodidacta enfocado al Desarrollo de software. Como
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-## Repositorios TOP
+## TOP Repositories
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=Gestor-de-contrasenas&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/Gestor-de-contrasenas)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=SiteWallpapers&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/SiteWallpapers)
@@ -47,23 +47,3 @@ Estudiante de programación autodidacta enfocado al Desarrollo de software. Como
 ## Portafolio
 
 <a href="http://luisangelponcealvarez.netlify.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-
-## Github Stats
-
-<table>
-  <tr>
-    <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisangelponcealvarez&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisangelponcealvarez&theme=radical&hide_border=false"/>
-    </td>
-    <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api?username=luisangelponcealvarez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
-    </td>
-  </tr>
-</table>
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=luisangelponcealvarez&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
