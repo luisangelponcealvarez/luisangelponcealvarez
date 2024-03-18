@@ -31,11 +31,9 @@ Self-taught programming student focused on software development. As a technology
 
 ## TOP Repositories
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=Password-Manager&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/Gestor-de-contrasenas)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=wallpapersluisangel&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/SiteWallpapers)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=cursos-gratis&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/cursos-gratis)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=Password-Manager&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/Password-Manager)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=manipulando-dom-con-js&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/manipulando-dom-con-js)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=DownloadVideo&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/DownloadVideo)
 
 ## 🌐 Socials:
 
