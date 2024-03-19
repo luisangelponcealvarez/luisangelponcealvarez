@@ -1,12 +1,11 @@
-## I am LUIS ANGEL PONCE ALVAREZ 💻:
+## Soy LUIS ANGEL PONCE ALVAREZ 💻:
 
-## About Me:
+## Sobre mí:
 
-Self-taught programming student focused on software development. As a technology lover I am looking to learn new technologies and make new projects, I aspire to get a job in the world of software development, gain experience, new knowledge and strengthen my professional life.
+Estudiante autodidacta de programación enfocado en el desarrollo de software. Como amante de la tecnología busco aprender nuevas tecnologías y hacer nuevos proyectos, aspiro a conseguir un trabajo en el mundo del desarrollo de software, ganar experiencia, nuevos conocimientos y fortalecer mi vida profesional.
 
-## Skills
+## Habilidades
 
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -16,11 +15,9 @@ Self-taught programming student focused on software development. As a technology
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<p>
 
-## Tools and technologies
+## Herramientas y tecnologías
 
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -28,9 +25,8 @@ Self-taught programming student focused on software development. As a technology
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
 
-## 🌐 Socials:
+## Redes :
 
 <a href="https://www.youtube.com/channel/UCQ851l8kDeiZYfg6cozN__g" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://open.spotify.com/user/nhf5pz5g4wdgjk0bvw2fzhakd?si=1ff6fa2155254f25" target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
