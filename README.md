@@ -29,12 +29,6 @@ Self-taught programming student focused on software development. As a technology
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-## TOP Repositories
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=Password-Manager&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/Password-Manager)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=manipulando-dom-con-js&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/manipulando-dom-con-js)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luisangelponcealvarez&repo=DownloadVideo&bg_color=30,00ee,00dbde&title_color=000&text_color=fff)](https://github.com/luisangelponcealvarez/DownloadVideo)
-
 ## 🌐 Socials:
 
 <a href="https://www.youtube.com/channel/UCQ851l8kDeiZYfg6cozN__g" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
