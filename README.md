@@ -2,7 +2,7 @@
 
 ## Sobre mí:
 
-Estudiante autodidacta de programación enfocado en el desarrollo de software. Como amante de la tecnología busco aprender nuevas tecnologías y hacer nuevos proyectos, aspiro a conseguir un trabajo en el mundo del desarrollo de software, ganar experiencia, nuevos conocimientos y fortalecer mi vida profesional.
+Soy una persona apasionada por la tecnología y la programación, especialmente en el área de desarrollo front-end. Me encanta mantenerme al día con las últimas tendencias en diseño web y dominar tecnologías como HTML, CSS, JavaScript, y frameworks como React . Disfruto resolviendo problemas y creando interfaces de usuario que sean intuitivas y visualmente atractivas, proporcionando una experiencia de usuario fluida y dinámica.
 
 ## Habilidades
 <p>
