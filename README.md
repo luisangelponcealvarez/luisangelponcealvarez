@@ -5,6 +5,7 @@
 Soy una persona apasionada por la tecnología y la programación, especialmente en el área de desarrollo front-end. Me encanta mantenerme al día con las últimas tendencias en diseño web y dominar tecnologías como HTML, CSS, JavaScript, y frameworks como React . Disfruto resolviendo problemas y creando interfaces de usuario que sean intuitivas y visualmente atractivas, proporcionando una experiencia de usuario fluida y dinámica.
 
 ## Habilidades
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -18,6 +19,7 @@ Soy una persona apasionada por la tecnología y la programación, especialmente 
 </p>
 
 ## Herramientas y tecnologías
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -30,10 +32,11 @@ Soy una persona apasionada por la tecnología y la programación, especialmente 
 
 ## Redes :
 
+<a href="https://www.linkedin.com/in/luis-angel-ponce-alvarez-848826242/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UCQ851l8kDeiZYfg6cozN__g" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.tiktok.com/@luisangelpocealvarez" target="_blank">![TikTok](https://img.shields.io/badge/TikTok-000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
 <a href="https://open.spotify.com/user/nhf5pz5g4wdgjk0bvw2fzhakd?si=1ff6fa2155254f25" target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://www.instagram.com/poncealvarezluisangel/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/luis-angel-ponce-alvarez-848826242/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/Luisang01161226" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.facebook.com/luisangel.poncealvarez.37" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
